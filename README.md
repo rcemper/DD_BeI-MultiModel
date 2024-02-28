@@ -27,5 +27,5 @@ To access IRIS System Management Portal
 http://localhost:42773/csp/sys/UtilHome.csp
 ```
 ### How to use it
-This presents OEX package [???????](https://openexchange.intersystems.com/package/?????) using the actual IPM module    
+This presents OEX package [BeI-MultiModel](https://openexchange.intersystems.com/package/BeI-MultiModel) using the actual IPM module    
 All user documentation is found there in the [original repo](https://github.com/ivove/BeI-MultiModel/blob/main/README.md)  
